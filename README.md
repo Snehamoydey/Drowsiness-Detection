@@ -91,4 +91,4 @@ End the Pygame mixer.
 
 
 _Feel free to customize the README to include additional information or details specific to your project. 
-Providing clear instructions on installation, usage, and dependencies will make it easier for others to use and contribute to your project._
+Providing clear instructions on installation, usage, and dependencies will make it easier for others to use and contribute to your project._.
